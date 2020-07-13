@@ -10,3 +10,6 @@
 ```
 jQuery；bootstrap；fullpage.js
 ```
+
+## 网站自适应
+网站使用bootstrap栅格和媒体查询进行自适应，网站最低可适应480p的设备
